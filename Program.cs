@@ -52,6 +52,7 @@ namespace degisken
             string tamIsim = ad + " " + soyad; 
 
             // Integer Tanımlama Şekilleri
+            
             int integer1 = 5;
             int integer2 = 3;
             int integer3 = integer1 * integer2;
@@ -79,6 +80,7 @@ namespace degisken
             string datetime2 = DateTime.Now.ToString("dd/MM/yyyy");
             Console.WriteLine(datetime2);
 
+            //saat
             string hour = DateTime.Now.ToString("HH:mm");
             Console.WriteLine(hour);
         }
