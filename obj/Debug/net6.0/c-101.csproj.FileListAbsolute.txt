@@ -1,0 +1,15 @@
+C:\Users\GOKTURK\Documents\sites\c-101\bin\Debug\net6.0\c-101.exe
+C:\Users\GOKTURK\Documents\sites\c-101\bin\Debug\net6.0\c-101.deps.json
+C:\Users\GOKTURK\Documents\sites\c-101\bin\Debug\net6.0\c-101.runtimeconfig.json
+C:\Users\GOKTURK\Documents\sites\c-101\bin\Debug\net6.0\c-101.dll
+C:\Users\GOKTURK\Documents\sites\c-101\bin\Debug\net6.0\c-101.pdb
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.csproj.AssemblyReference.cache
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.AssemblyInfoInputs.cache
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.AssemblyInfo.cs
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.csproj.CoreCompileInputs.cache
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.dll
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\refint\c-101.dll
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.pdb
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\c-101.genruntimeconfig.cache
+C:\Users\GOKTURK\Documents\sites\c-101\obj\Debug\net6.0\ref\c-101.dll
